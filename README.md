@@ -1,6 +1,7 @@
 # git-tutorial
 This is tutorial expanding on the use of Git and Github
 
+## Git Commands
 clone: brings a repo hosted somewhere like Github right to your local machine
 add: track files and add changes in Git
 commit: saves files in Git
