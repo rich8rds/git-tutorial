@@ -8,3 +8,10 @@ commit: saves files in Git
 push: uploads git commits to a remote repo, like Github
 pull: downloads changes from remote repo to your local machine
 
+Using the branch commands such as
+git branch
+git checkout
+git checkout -b branch-name
+git checkout branch-name
+git merge
+
